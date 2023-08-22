@@ -45,6 +45,14 @@ codeql database analyze C:\codeql-dbs\exercise-codeql-csharp\ --download --sarif
 ![image](https://github.com/githubdevopsabcs/exercise-codeql-csharp/assets/48259636/89011537-dfb5-4aa7-af95-fe736bf95dea)
 1. then interpret results
 ![image](https://github.com/githubdevopsabcs/exercise-codeql-csharp/assets/48259636/1f632183-cb06-4649-a389-c67ed96aaae9)
+1. make sure output folder exists
+```
+mkdir C:\src\GitHub\githubdevopsabcs\exercise-codeql-csharp\temp
+```
+1. or you will get error writing output
+![image](https://github.com/githubdevopsabcs/exercise-codeql-csharp/assets/48259636/86f12a4c-cb32-42bc-a85d-057c52ddef15)
+1. try again
+
 
 
 

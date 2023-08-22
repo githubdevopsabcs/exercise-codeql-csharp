@@ -41,3 +41,6 @@ codeql database analyze C:\codeql-dbs\exercise-codeql-csharp\ --sarif-category=c
 ```
 codeql database analyze C:\codeql-dbs\exercise-codeql-csharp\ --download --sarif-category=csharp --format=sarif-latest --output=C:\src\GitHub\githubdevopsabcs\exercise-codeql-csharp\temp\exercise-codeql-csharp.sarif
 ```
+1. you will see a bunch of queries run
+![image](https://github.com/githubdevopsabcs/exercise-codeql-csharp/assets/48259636/89011537-dfb5-4aa7-af95-fe736bf95dea)
+

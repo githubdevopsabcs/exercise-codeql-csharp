@@ -30,6 +30,7 @@ finalised: true
 ```
 codeql pack download codeql/csharp-queries
 ```
+![image](https://github.com/githubdevopsabcs/exercise-codeql-csharp/assets/48259636/a4452052-62a5-4bf5-bd58-4791a0350777)
 1. now analyze
 ```
 codeql database analyze C:\codeql-dbs\exercise-codeql-csharp\ --sarif-category=csharp --format=sarif-latest --output=C:\src\GitHub\githubdevopsabcs\exercise-codeql-csharp\temp\exercise-codeql-csharp.sarif

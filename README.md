@@ -26,3 +26,7 @@ creationMetadata:
   creationTime: 2023-08-22T17:17:17.803483200Z
 finalised: true
 ```
+1. now analyze
+```
+codeql database analyze C:\codeql-dbs\exercise-codeql-csharp\ --sarif-category=csharp --format=sarif-latest --output=C:\src\GitHub\githubdevopsabcs\exercise-codeql-csharp\temp\exercise-codeql-csharp.sarif
+```

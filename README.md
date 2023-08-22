@@ -61,6 +61,7 @@ codeql github upload-results --repository=githubdevopsabcs/exercise-codeql-cshar
 ```
 ![image](https://github.com/githubdevopsabcs/exercise-codeql-csharp/assets/48259636/818d1be9-fc67-43c2-a3b6-cb83fecce19f)
 1. verify for good measure
+![image](https://github.com/githubdevopsabcs/exercise-codeql-csharp/assets/48259636/4ea50fc5-d02b-4ae1-b432-944baaf0ede4)
 
 
 

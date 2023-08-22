@@ -37,3 +37,7 @@ codeql pack download codeql/csharp-queries
 ```
 codeql database analyze C:\codeql-dbs\exercise-codeql-csharp\ --sarif-category=csharp --format=sarif-latest --output=C:\src\GitHub\githubdevopsabcs\exercise-codeql-csharp\temp\exercise-codeql-csharp.sarif
 ```
+1. alternatively add --download
+```
+codeql database analyze C:\codeql-dbs\exercise-codeql-csharp\ --download --sarif-category=csharp --format=sarif-latest --output=C:\src\GitHub\githubdevopsabcs\exercise-codeql-csharp\temp\exercise-codeql-csharp.sarif
+```

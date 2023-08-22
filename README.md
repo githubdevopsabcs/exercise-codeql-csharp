@@ -55,6 +55,14 @@ mkdir C:\src\GitHub\githubdevopsabcs\exercise-codeql-csharp\temp
 ![image](https://github.com/githubdevopsabcs/exercise-codeql-csharp/assets/48259636/17daacf4-2b58-4ea7-a92d-1ebfafc0e036)
 1. most likely due to fingerprints
 ![image](https://github.com/githubdevopsabcs/exercise-codeql-csharp/assets/48259636/46926f17-11fa-4c91-aea9-e7e746a0f04c)
+1. upload el sarif
+```
+codeql github upload-results --repository=githubdevopsabcs/exercise-codeql-csharp --ref=refs/heads/main --commit=1ee18b3170340110cb5977249da911a326205595 --sarif=C:\src\GitHub\githubdevopsabcs\exercise-codeql-csharp\temp\exercise-codeql-csharp.sarif --github-auth-stdin
+```
+![image](https://github.com/githubdevopsabcs/exercise-codeql-csharp/assets/48259636/818d1be9-fc67-43c2-a3b6-cb83fecce19f)
+1. verify for good measure
+
+
 
 
 

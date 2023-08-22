@@ -51,7 +51,10 @@ mkdir C:\src\GitHub\githubdevopsabcs\exercise-codeql-csharp\temp
 ```
 1. or you will get error writing output
 ![image](https://github.com/githubdevopsabcs/exercise-codeql-csharp/assets/48259636/86f12a4c-cb32-42bc-a85d-057c52ddef15)
-1. try again
+1. try again - observe not re-running queries
+![image](https://github.com/githubdevopsabcs/exercise-codeql-csharp/assets/48259636/17daacf4-2b58-4ea7-a92d-1ebfafc0e036)
+1. most likely due to fingerprints
+
 
 
 

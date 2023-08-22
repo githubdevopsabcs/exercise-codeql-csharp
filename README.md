@@ -54,6 +54,8 @@ mkdir C:\src\GitHub\githubdevopsabcs\exercise-codeql-csharp\temp
 1. try again - observe not re-running queries
 ![image](https://github.com/githubdevopsabcs/exercise-codeql-csharp/assets/48259636/17daacf4-2b58-4ea7-a92d-1ebfafc0e036)
 1. most likely due to fingerprints
+![image](https://github.com/githubdevopsabcs/exercise-codeql-csharp/assets/48259636/46926f17-11fa-4c91-aea9-e7e746a0f04c)
+
 
 
 
